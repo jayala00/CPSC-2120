@@ -1,0 +1,14 @@
+insert 5
+insert 4
+insert 45
+insert 33
+insert 2
+insert 15
+insert 43
+remove 3
+print
+remove 33
+print
+find 45
+print
+quit
