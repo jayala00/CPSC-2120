@@ -1,0 +1,10 @@
+insert james
+insert jordan
+insert max
+insert kevin
+insert cordel
+insert cameron
+insert adam
+insert patrick
+print
+quit
